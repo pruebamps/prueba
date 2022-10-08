@@ -1,3 +1,4 @@
+# Funcion que genera numeros de la serie de Fibonacci
 def fibo(cantidad):
     a,b=0,1
     serie= list()
