@@ -1,5 +1,5 @@
 # Funcion que genera numeros de la serie de Fibonacci
-# Comentario para otra rama
+# Comentario para la rama_b
 def fibo(cantidad):
     a,b=0,1
     serie= list()
